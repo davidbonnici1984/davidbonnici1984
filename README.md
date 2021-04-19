@@ -3,7 +3,7 @@ Creator of OPENA3XX which it is an ambitious project for all Airbus flight simme
 
 
 ## OpenA3XX Digital Hardare Controller Board (HCB)
-![alt](https://raw.githubusercontent.com/OpenA3XX/opena3xx.schematics/main/digital-hardware-controller/visualisation.PNG)
+![alt](https://raw.githubusercontent.com/OpenA3XX/opena3xx.schematics/main/opena3xx-digital-hardware-controller/visualisation.PNG)
 
 
 ## OpenA3XX MCDU with embedded HCB (Optional)
