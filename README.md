@@ -2,7 +2,7 @@ Creator of OPENA3XX which it is an ambitious project for all Airbus flight simme
 
 
 
-## OpenA3XX Digital Hardare Controller Board (HCB)
+<!-- ## OpenA3XX Digital Hardare Controller Board (HCB)
 ![alt](https://raw.githubusercontent.com/OpenA3XX/opena3xx.schematics/main/opena3xx-digital-hardware-controller/visualisation.PNG)
 
 
@@ -19,3 +19,4 @@ Creator of OPENA3XX which it is an ambitious project for all Airbus flight simme
 ## OpenA3XX Admin App (Realtime Monitoring)
 ![alt](https://github.com/OpenA3XX/opena3xx.configurator.admin/blob/main/src/assets/real-time-console.png?raw=true)
 
+ -->
